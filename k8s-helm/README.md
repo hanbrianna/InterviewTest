@@ -10,7 +10,7 @@ You are working with a team that has recently deployed a daemonset to the cluste
 2. In this scenario the team would like to specify the nodes, but this chart can be reused on other clusters with all nodes requiring the mesh component. Ensure that the chart can take a valuesfile variable to select the right node group, but in the case of no value being given, defaults to all nodes.
 
 # Part 2 #
-Using a helpers file, include the ability to override the daemonse name from the values file.  If there is no override item in the values file then the .Chart.Name should be used
+Using a helpers file, include the ability to override the daemonset name from the values file.  If there is no override item in the values file then the .Chart.Name should be used
 
 # Part 3 #
 Create a test in the helm deployment to simply confirm that the image successfully creates a pod.  You can use any command you wish
