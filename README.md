@@ -1,5 +1,2 @@
-# platform-engineering-technical-testing #
+# tech test #
 
-## Introduction ##
-
-Repository containing exercises to ascertain competency for various DevOps technologies
