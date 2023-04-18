@@ -1,0 +1,16 @@
+---
+trigger:
+  - main
+
+pool:
+  vmImage: ubuntu-RCE
+
+steps:
+  - displayName: "Build"
+    bash:
+
+  - displayName: "Test"
+    bash:
+
+  - displayName: "Deploy"
+    bash:
