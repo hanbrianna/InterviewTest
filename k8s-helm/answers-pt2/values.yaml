@@ -1,0 +1,4 @@
+nodeSelector:
+  team: cat
+
+nameOverride: testapp
