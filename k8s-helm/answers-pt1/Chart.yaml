@@ -1,4 +1,0 @@
-apiVersion: v1
-name: meshcat
-version: 1.0.0
-description: deploys the custom mesh that supports deployable catapp components on certain nodes
